@@ -1,0 +1,84 @@
+body {
+  background-image: url(assets/img/sfondo.jpg);
+}
+/* contenitore di pagina */
+
+.main {
+  width: 70%
+}
+
+
+
+/* Icona e header gmail */
+
+img {
+  width: 100px;
+}
+
+.white {
+  color: white;
+}
+
+#logo {
+  width: 20%;
+  height: auto;
+  display: inline-block;
+}
+
+/* Search & co */
+
+#search {
+  border: 1px solid black;
+  padding: 5px 5px;
+  padding-right: 30%;
+  margin-top: 2px;
+  margin-bottom: 20px;
+  background-color: white;
+  color: grey;
+
+}
+
+#bottone {
+  border: 3px solid black;
+  border-radius: 5%;
+  padding: 3px;
+  background-color: lightgrey;
+  color: black;
+
+}
+
+#unread {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+/* elenco mail */
+
+.cella {
+  border: 1px solid black;
+  padding: 3px;
+  margin-top: -1px;
+  background-color: lightgrey;
+}
+
+.cellabianca {
+  border: 1px solid black;
+  padding: 3px;
+  margin-top: -1px;
+  background-color: white;
+}
+
+/* Footer */
+
+#gmailfooter {
+  font-size: 20px;
+}
+
+#strong {
+  font-weight: 600;
+}
+
+footer {
+  text-align: center;
+}
